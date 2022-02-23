@@ -47,6 +47,6 @@ This application is the server for City Explorer. It will import information fro
 
 - Start time: 5:45pm
 
-- Finish time: 
+- Finish time: 11:00pm
 
-- Actual time needed to complete: 
+- Actual time needed to complete: 5 hours
