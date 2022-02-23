@@ -36,7 +36,7 @@ class Forecast {
     // this.lat = cityObj.lat;
     // this.lon = cityObj.lon;
     this.date = day.datetime;
-    this.description = day.weather;
+    this.description = day.weather.description;
   }
 }
 
