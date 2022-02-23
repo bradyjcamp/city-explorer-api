@@ -28,8 +28,8 @@ app.get('/weather', (request, response) => {
     // console.log(weatherArr);
     response.send(weatherArr);
   } catch (error) {
-    throw new Error('weather not working');
-    // response.status(500).send('500, something went wrong');
+    // throw new Error('weather not working');
+    response.status(500).send('500, something went wrong');
   }
 });
 
