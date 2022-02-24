@@ -10,7 +10,7 @@ This application is the server for City Explorer. It will import information fro
 ## Getting Started
 
 - The first step was to create a very simple whiteboard drawing of what the web request-response cycle(WRRC) would look like.
-  - [whiteboard](https://miro.com/app/board/uXjVOK2U1ho=/)
+  - [WRRC](/city-explorer-wrrc.jpg)
 - Then create a new repo and include configs such as .gitignore, .eslintrc.json.
 - After that, import appropriate data and dependencies including weather.json file and data, and express, dotenv, and cors using `npm install`
 
