@@ -11,6 +11,7 @@ This application is the server for City Explorer. It will import information fro
 
 - The first step was to create a very simple whiteboard drawing of what the web request-response cycle(WRRC) would look like.
   - [WRRC](/city-explorer-wrrc.jpg)
+  - [WRRC](/WRRC.png)
 - Then create a new repo and include configs such as .gitignore, .eslintrc.json.
 - After that, import appropriate data and dependencies including weather.json file and data, and express, dotenv, and cors using `npm install`
 
@@ -25,6 +26,7 @@ This application is the server for City Explorer. It will import information fro
 - 02-22-2022 7:30pm EST - Created /weather root and sent to app
 - 02-23-2022 6:30pm EST - updated data sent from /weather root to be live weather forecast
 - 02-23-2022 8:30pm EST - Created /movies root and used third party API to send data to app
+- 02-24-2022 7:20pm EST - Added weather.js and movies.js and refactored
 
 ## Credit and Collaborations
 
@@ -56,7 +58,7 @@ This application is the server for City Explorer. It will import information fro
 
 ### Time Estimation for Completion
 
-- Number and name of feature: Live Weather 
+- Number and name of feature: Live Weather
 
 - Estimate of time needed to complete: 2 hours
 
@@ -68,7 +70,7 @@ This application is the server for City Explorer. It will import information fro
 
 ### Time Estimation for Completion
 
-- Number and name of feature: Third Party Movies API 
+- Number and name of feature: Third Party Movies API
 
 - Estimate of time needed to complete: 2 hours
 
@@ -78,3 +80,14 @@ This application is the server for City Explorer. It will import information fro
 
 - Actual time needed to complete: 1 hour 45 minutes
 
+### Time Estimation for Completion 
+
+- Number and name of feature: Refactor
+
+- Estimate of time needed to complete: 30 minutes
+
+- Start time: 7:00pm
+
+- Finish time: 07:20pm
+
+- Actual time needed to complete: 20 minutes
