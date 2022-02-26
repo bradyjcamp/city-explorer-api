@@ -14,6 +14,7 @@ This application is the server for City Explorer. It will import information fro
   - [WRRC 2](/city-explorer-server-API.jpg)
   - [WRRC 3](/city-explorer-wrrc.jpg)
   - [WRRC 4](/WRRC.png)
+  - [WRRC 5](/WRRC-cache.png)
 - Then create a new repo and include configs such as .gitignore, .eslintrc.json.
 - After that, import appropriate data and dependencies including weather.json file and data, and express, dotenv, and cors using `npm install`
 
@@ -29,6 +30,8 @@ This application is the server for City Explorer. It will import information fro
 - 02-23-2022 6:30pm EST - updated data sent from /weather root to be live weather forecast
 - 02-23-2022 8:30pm EST - Created /movies root and used third party API to send data to app
 - 02-24-2022 7:20pm EST - Added weather.js and movies.js and refactored
+- 02-25-2022 7:00pm EST - Added cache to weather.js
+- 02-25-2022 7:30pm EST - Added cache to movies.js
 
 ## Credit and Collaborations
 
@@ -93,3 +96,15 @@ This application is the server for City Explorer. It will import information fro
 - Finish time: 07:20pm
 
 - Actual time needed to complete: 20 minutes
+
+### Time Estimation for Completion 
+
+- Number and name of feature: Cache
+
+- Estimate of time needed to complete: 2 hours
+
+- Start time: 5:00pm
+
+- Finish time: 07:30pm
+
+- Actual time needed to complete: 2 hours
