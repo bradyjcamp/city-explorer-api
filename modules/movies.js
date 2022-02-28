@@ -38,6 +38,7 @@ class Movies {
     this.rating = movie.vote_average;
     this.votes = movie.vote_count;
     this.release = movie.release_date;
+    this.img_url = movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : 'no-poster';
   }
 }
 
