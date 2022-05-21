@@ -11,6 +11,7 @@ This application is the server for City Explorer. It will import information fro
 
 ## Architecture
 
+- Application Deployed on Heroku
 - Whiteboard created using Miro.
 - This application includes JSX, React Bootstrap, express, dotenv, CORS and weatherbit API
 
