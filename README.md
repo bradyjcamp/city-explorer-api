@@ -9,6 +9,8 @@ This application is the server for City Explorer. It will import information fro
 
 ## Getting Started
 
+
+
 ## Architecture
 
 - Application Deployed on Heroku
