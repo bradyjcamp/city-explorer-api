@@ -9,8 +9,6 @@ This application is the server for City Explorer. It will import information fro
 
 ## Getting Started
 
-
-
 ## Architecture
 
 - Whiteboard created using Miro.
